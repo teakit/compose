@@ -1,6 +1,6 @@
 {
   "name": "@teakit/compose",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Middleware composition utility",
   "prettier": "prettier-config-whatskit",
   "author": "Billgo <hi@billgo.me>",
@@ -38,7 +38,6 @@
     "@types/node": "^18.6.2",
     "@typescript-eslint/eslint-plugin": "^5.31",
     "@typescript-eslint/parser": "^5.31",
-    "@whatskit/copy-files": "^0.1.0",
     "eslint": "^8.20",
     "eslint-config-prettier": "^8.5",
     "eslint-plugin-jest": "^26.7",
@@ -47,9 +46,9 @@
     "prettier-config-whatskit": "^0.3.0",
     "rimraf": "^3.0",
     "ts-jest": "^28.0",
-    "tsutils": "^3.21",
     "tslib": "^2.4",
     "tsup": "5.11.13",
+    "tsutils": "^3.21",
     "typescript": "^4.7"
   },
   "tsup": {
