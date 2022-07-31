@@ -2,7 +2,7 @@
 
 /* eslint-env jest */
 
-const compose = require("../lib");
+const compose = require("..");
 const assert = require("assert");
 
 function wait(ms) {
