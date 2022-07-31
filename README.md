@@ -5,7 +5,7 @@ Compose middleware specifically for Teakit.
 ## Installation
 
 ```js
-import Atom from "@teakit/compose";
+import compose from "@teakit/compose";
 ```
 
 ## API
